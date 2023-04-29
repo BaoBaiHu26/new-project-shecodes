@@ -1,0 +1,49 @@
+.bi.bi-search {
+  color: black;
+}
+.bi.bi-arrow-bar-left {
+  text-decoration: none;
+  color: black;
+}
+.bi.bi-arrow-bar-left:hover {
+  color: aqua;
+}
+div.col-md-8.bg-img {
+  background-image: url("media/istockphoto-1033581442-612x612.jpeg");
+  background-position: center;
+  background-size: 300px 120px;
+}
+div.col-md-10.border.rounded.p-3 {
+  background-color: #ccb0f5;
+  border: solid 1px #a169f5;
+}
+div.col-md-10.border.rounded.p-3:hover {
+  background-color: #cfbee8;
+}
+div.col-md-10.border.rounded.num-1.p-3 {
+  background-color: #9ac1f5;
+  border: solid 1px #3d84e0;
+}
+div.col-md-10.border.rounded.num-1.p-3:hover {
+  background-color: #bed8fa;
+}
+div.col-md-10.ps-3 {
+  background-color: #f7fabe;
+}
+h6.text-center.wforecast {
+  color: #fa3e3e;
+}
+div#firstcol {
+  width: 50%;
+}
+a#celcius {
+  width: fit-content;
+}
+a#farenheit {
+  width: fit-content;
+}
+h4#emoji-desc {
+  font-size: small;
+  color: gray;
+  text-transform: capitalize;
+}
